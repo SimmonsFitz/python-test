@@ -1,0 +1,7 @@
+fastapi==0.103.1
+motor==3.3.1
+packaging==23.1
+pymongo==4.5.0
+requirements-parser==0.5.0
+toml==0.10.2
+uvicorn==0.23.2
